@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "title": "Midnight Serenade",
+    "artist": "Luna Echo",
+    "album": "Twilight Hours",
+    "coverArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "duration": "3:45",
+    "genre": "Indie Pop",
+    "mood": "Chill",
+    "releaseYear": 2023,
+    "listened": false,
+    "favorite": false
+  },
+  {
+    "id": "2",
+    "title": "Electric Dreams",
+    "artist": "Neon Pulse",
+    "album": "Synthetic Memories",
+    "coverArt": "https://images.unsplash.com/photo-1614149162883-504ce4d13909?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "duration": "4:20",
+    "genre": "Synthwave",
+    "mood": "Energetic",
+    "releaseYear": 2022,
+    "listened": false,
+    "favorite": false
+  },
+  {
+    "id": "3",
+    "title": "Velvet Moon",
+    "artist": "Aurora Skies",
+    "album": "Celestial Journey",
+    "coverArt": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "duration": "3:28",
+    "genre": "Dream Pop",
+    "mood": "Dreamy",
+    "releaseYear": 2023,
+    "listened": true,
+    "favorite": true
+  },
+  {
+    "id": "4",
+    "title": "Urban Symphony",
+    "artist": "Metro Echoes",
+    "album": "City Lights",
+    "coverArt": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "duration": "5:12",
+    "genre": "Electronic",
+    "mood": "Atmospheric",
+    "releaseYear": 2022,
+    "listened": false,
+    "favorite": false
+  },
+  {
+    "id": "5",
+    "title": "Silent Waves",
+    "artist": "Ocean Drift",
+    "album": "Coastal Memories",
+    "coverArt": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "duration": "4:50",
+    "genre": "Ambient",
+    "mood": "Relaxing",
+    "releaseYear": 2021,
+    "listened": true,
+    "favorite": false
+  }
+]

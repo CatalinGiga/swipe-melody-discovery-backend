@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Twilight Hours",
+    "artist": "Luna Echo",
+    "coverArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "releaseYear": 2023,
+    "tracks": [
+      "1"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Synthetic Memories",
+    "artist": "Neon Pulse",
+    "coverArt": "https://images.unsplash.com/photo-1614149162883-504ce4d13909?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "releaseYear": 2022,
+    "tracks": [
+      "2"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Celestial Journey",
+    "artist": "Aurora Skies",
+    "coverArt": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "releaseYear": 2023,
+    "tracks": [
+      "3"
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Luna Echo",
+    "image": "https://images.unsplash.com/photo-1516575150278-77136aed6920?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "genres": [
+      "Indie Pop",
+      "Alternative"
+    ],
+    "popularity": 85
+  },
+  {
+    "id": "2",
+    "name": "Neon Pulse",
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "genres": [
+      "Synthwave",
+      "Electronic"
+    ],
+    "popularity": 78
+  },
+  {
+    "id": "3",
+    "name": "Aurora Skies",
+    "image": "https://images.unsplash.com/photo-1507041957456-9c397ce39c97?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "genres": [
+      "Dream Pop",
+      "Ambient"
+    ],
+    "popularity": 92
+  },
+  {
+    "id": "4",
+    "name": "Metro Echoes",
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "genres": [
+      "Electronic",
+      "Techno"
+    ],
+    "popularity": 74
+  },
+  {
+    "id": "5",
+    "name": "Ocean Drift",
+    "image": "https://images.unsplash.com/photo-1508186225823-0963cf9ab0de?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=500",
+    "genres": [
+      "Ambient",
+      "Chillout"
+    ],
+    "popularity": 68
+  }
+]
